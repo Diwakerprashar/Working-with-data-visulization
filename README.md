@@ -1,2 +1,2 @@
-# Workong-with-data-visulization
+# Working-with-data-visulization
 jupyter notebook
